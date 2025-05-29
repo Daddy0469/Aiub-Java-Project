@@ -45,7 +45,7 @@ public class RestaurantManagementSystem extends JFrame {
         add(tabbedPane, BorderLayout.CENTER);
         
         // Header
-        JLabel headerLabel = new JLabel("Minhaj & Sabbir's food house", SwingConstants.CENTER);
+        JLabel headerLabel = new JLabel("Food Court", SwingConstants.CENTER);
         headerLabel.setFont(new Font("Arial", Font.BOLD, 24));
         headerLabel.setBackground(new Color(50, 50, 50));
         headerLabel.setForeground(Color.WHITE);
