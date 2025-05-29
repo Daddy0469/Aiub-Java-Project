@@ -1,0 +1,7 @@
+Chicken Biriyani,8.0,Main Course
+Kacchi Biriyani,10.0,Main
+Vegetable Curry,5.0,Main Course
+Coke,2.0,Drinks
+Tea,1.5,Drinks
+Kabab,6.0,Starter
+Chicken Biriyani,8.0,Main Course
